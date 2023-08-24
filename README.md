@@ -12,8 +12,10 @@ Course completion certificate [here](https://www.coursera.org/account/accomplish
     <img src="./images/epoch95_salientcat2.jpg" width="100"/>
     <img src="./images/epoch95_cat2.jpg"width="100"/>
 </p>
+<p float="left">
     <img src="./images/epoch95_salientcatanddog.jpg"width="100"/>
     <img src="./images/epoch95_catanddog.jpg" width="100"/>
+</p>
 <p float="left">
     <img src="./images/epoch95_salientdog1.jpg" width="100"/>
     <img src="./images/epoch95_dog1.jpg" width="100"/>
