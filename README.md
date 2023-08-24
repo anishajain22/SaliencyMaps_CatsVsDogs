@@ -5,12 +5,12 @@ Project completed as a part of a programming assignment of the self-enrolled Cou
 Course completion certificate [here](https://www.coursera.org/account/accomplishments/verify/UNK5EAW3NGHC).
 
 <img src="./images/epoch95_salientcat1.jpg"/>
-<img src="./images/epoch95_cat1.png"/>
+<img src="./images/epoch95_cat1.jpg"/>
 <img src="./images/epoch95_salientcat2.jpg"/>
-<img src="./images/epoch95_cat2.png"/>
+<img src="./images/epoch95_cat2.jpg"/>
 <img src="./images/epoch95_salientcatanddog.jpg"/>
-<img src="./images/epoch95_catanddog.png"/>
+<img src="./images/epoch95_catanddog.jpg"/>
 <img src="./images/epoch95_salientdog1.jpg"/>
-<img src="./images/epoch95_dog1.png"/>
+<img src="./images/epoch95_dog1.jpg"/>
 <img src="./images/epoch95_salientdog2.jpg"/>
-<img src="./images/epoch95_dog2.png"/>
+<img src="./images/epoch95_dog2.jpg"/>
