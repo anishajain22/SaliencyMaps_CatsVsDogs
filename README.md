@@ -4,4 +4,8 @@ Project completed as a part of a programming assignment of the self-enrolled Cou
 
 Course completion certificate [here](https://www.coursera.org/account/accomplishments/verify/UNK5EAW3NGHC).
 
-<img src="./images/saliency_map_cats_vs_dogs.png"/>
+<img src="./images/epoch95_salientcat1.png"/>
+<img src="./images/epoch95_salientcat2.png"/>
+<img src="./images/epoch95_salientcatanddog.png"/>
+<img src="./images/epoch95_salientdog1.png"/>
+<img src="./images/epoch95_salientdog2.png"/>
